@@ -1,2 +1,2 @@
-# sentimentanaysis
+# sentimentanalysis
 Sentiment analysis on educational applications 
